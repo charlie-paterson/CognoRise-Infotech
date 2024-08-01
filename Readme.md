@@ -1,6 +1,6 @@
 # Summary of Projects
 
-## Car Price Prediciton
+## 1 - Car Price Prediciton
 
 Using a car price dataset, I built a machine learning model to predict car prices based on various features within the dataset. Given the continuous nature of the target variable (price), I employed regression algorithms rather than classification models. The dataset contained numerous columns that could be feature-engineered to enhance the model's accuracy.
 
