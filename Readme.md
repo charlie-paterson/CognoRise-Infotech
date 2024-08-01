@@ -18,3 +18,6 @@ To maximize the model's performance, I opted for a smaller test size, thereby in
 
 ### 3 - Fake News Detection 
 
+The Fake News Prediction project aims to develop a machine learning model capable of distinguishing between genuine and fake news articles. This project addresses the growing concern of misinformation spreading through various media channels, which can have significant societal and political impacts. By leveraging natural language processing (NLP) techniques and machine learning algorithms, the project seeks to provide a reliable tool for news verification.
+
+I used different machine learning classification models to gain an accuracy score of 94% using a logistic regression model. This meant that my predicted target varibales were very similar to that of the actual targets. I also got an AUC score of 0.98 which means that many patterns were found within my model as an AUC score of 0.5 means the model is just randomly guessing and an AUC score of 1 means the model knows exactly what is coming next from the patterns within the dataset. So, from this my model
