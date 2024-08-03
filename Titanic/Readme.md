@@ -6,20 +6,26 @@ The dataset was divided into an 80/20 training and testing split to ensure the m
 
 Each model was trained using cross-validation and hyperparameter tuning to maximize their performance. The accuracy scores for each model were as follows:
 
-1. Logistic Regression:
-Accuracy Score: 80%
-Performance: The baseline model provided a solid start but lacked the complexity to capture more intricate patterns in the data.
+1. Logistic Regression Model:
 
-2. Decision Tree:
-Accuracy Score: 80%
-Performance: Similar to Logistic Regression, the Decision Tree model had limited accuracy due to its tendency to overfit the training data.
+* Accuracy Score: 80%
 
-3. Random Forest:
+* Performance: The baseline model provided a solid start but lacked the complexity to capture more intricate patterns in the data.
+
+2. Decision Tree Classification Model:
+
+* Accuracy Score: 80%
+
+* Performance: Similar to Logistic Regression, the Decision Tree model had limited accuracy due to its tendency to overfit the training data.
+
+3. Random Forest Classification Model:
 Accuracy Score: 80%
 Performance: The ensemble method of Random Forests significantly improved accuracy by combining multiple decision trees to reduce overfitting and increase generalizability.
 
-4. Gradient Boosting Classifier:
-Accuracy Score: 83%
-Performance: The Gradient Boosting model achieved the highest accuracy, demonstrating its ability to effectively identify class differences and predict survival outcomes. It also achieved an F1-score of 0.78 and an AUC score of 0.88, further indicating its robustness and reliability.
+4. Gradient Boosting Classification Model:
+
+* Accuracy Score: 83%
+
+* Performance: The Gradient Boosting model achieved the highest accuracy, demonstrating its ability to effectively identify class differences and predict survival outcomes. It also achieved an F1-score of 0.78 and an AUC score of 0.88, further indicating its robustness and reliability.
 
 The Gradient Boosting Classifier's 83% accuracy demonstrates the model's effectiveness in predicting passenger survival, making it the best-performing model among those tested. This accuracy, along with its F1-score and AUC score, highlights the model's capability in balancing precision and recall, and distinguishing between classes.
