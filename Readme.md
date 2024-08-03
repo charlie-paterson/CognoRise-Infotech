@@ -1,4 +1,4 @@
-# Summary of Projects
+# Introduction to Projects
 
 ### 1 - Car Price Prediciton
 
