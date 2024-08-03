@@ -12,15 +12,15 @@ To achieve the highest accuracy in car price prediction, three different machine
 
 2. Random Forest Regressor Model
 
-*R-squared Score: 99%
+* R-squared Score: 99%
 
-*Performance: The Random Forest Regressor also performed exceptionally well, closely matching the accuracy of the Linear Regression model. This ensemble method leveraged multiple decision trees to enhance predictive performance and robustness.
+* Performance: The Random Forest Regressor also performed exceptionally well, closely matching the accuracy of the Linear Regression model. This ensemble method leveraged multiple decision trees to enhance predictive performance and robustness.
 
 3. Support Vector Regression Model
 
-*R-squared Score: 86%
+* R-squared Score: 86%
 
-*Performance: The SVR model, while still producing a respectable score, lagged behind the other two models. Despite efforts to optimize its performance through grid search, it remained the lowest-performing model in this comparison.
+* Performance: The SVR model, while still producing a respectable score, lagged behind the other two models. Despite efforts to optimize its performance through grid search, it remained the lowest-performing model in this comparison.
 
 To further improve the SVR model's accuracy, a grid search was conducted. This hyperparameter tuning technique systematically explored different combinations of parameters to identify the optimal settings for the SVR model. Although this process led to some improvement in the R-squared score, the SVR model still did not surpass the performance of the Linear Regression and Random Forest models.
 
