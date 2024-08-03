@@ -5,7 +5,9 @@ The Car Price Prediction project aims to develop an accurate and reliable model 
 To achieve the highest accuracy in car price prediction, three different machine learning models were employed: Linear Regression, Random Forest Regressor, and Support Vector Regression (SVR). Each model was evaluated based on its R-squared score, a key metric that measures the proportion of variance in the dependent variable that can be predicted from the independent variables.
 
 1. Linear Regression Model
+
 R-squared Score: 100%
+
 Performance: The Linear Regression model achieved a perfect fit for the target variable, indicating that it explained all the variability in car prices based on the input features.
 Random Forest Regressor Model
 
