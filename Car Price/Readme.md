@@ -6,9 +6,9 @@ To achieve the highest accuracy in car price prediction, three different machine
 
 1. Linear Regression Model
 
-R-squared Score: 100%
+* R-squared Score: 100%
 
-Performance: The Linear Regression model achieved a perfect fit for the target variable, indicating that it explained all the variability in car prices based on the input features.
+* Performance: The Linear Regression model achieved a perfect fit for the target variable, indicating that it explained all the variability in car prices based on the input features.
 Random Forest Regressor Model
 
 2. R-squared Score: 99%
