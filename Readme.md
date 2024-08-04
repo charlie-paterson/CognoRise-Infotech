@@ -24,3 +24,7 @@ Misinformation and fake news have become pervasive in the digital age, often lea
 
 
 ### 4 - Iris Classification
+
+This project aims to develop and evaluate machine learning models to accurately classify iris flowers into their respective species based on four key features: sepal length, sepal width, petal length, and petal width. The dataset is renowned not only for its simplicity and small size, making it an ideal candidate for beginners in machine learning, but also for its applicability in demonstrating the efficacy of various classification algorithms.
+
+By the end of this project, we aim to provide a comprehensive understanding of the classification process, from data preprocessing and model training to evaluation and selection. This project not only reinforces fundamental concepts of machine learning but also equips us with practical skills necessary for tackling real-world classification problems.
