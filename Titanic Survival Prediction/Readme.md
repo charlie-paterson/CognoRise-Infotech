@@ -19,8 +19,10 @@ Each model was trained using cross-validation and hyperparameter tuning to maxim
 * Performance: Similar to Logistic Regression, the Decision Tree model had limited accuracy due to its tendency to overfit the training data.
 
 3. Random Forest Classification Model:
-Accuracy Score: 80%
-Performance: The ensemble method of Random Forests significantly improved accuracy by combining multiple decision trees to reduce overfitting and increase generalizability.
+
+* Accuracy Score: 80%
+
+* Performance: The ensemble method of Random Forests significantly improved accuracy by combining multiple decision trees to reduce overfitting and increase generalizability.
 
 4. Gradient Boosting Classification Model:
 
