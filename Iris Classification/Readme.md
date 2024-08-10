@@ -6,13 +6,14 @@ To achieve the highest accuracy in Iris classification, two different machine le
 
 1. Random Forest Classifier Model
 
-* Accuracy Score: 99%
+* Accuracy Score: 100%
 
-* Performance: The Random Forest Classifier also performed exceptionally well, closely matching the accuracy of the Logistic Regression model. This ensemble method leveraged multiple decision trees to enhance predictive performance and robustness.
+* Performance: The Random Forest Classifier performed perfectly. This ensemble method leveraged multiple decision trees to enhance predictive performance and robustness.
 
-2. Support Vector Machine Model
+2. Gradient Boosting CLassifier Model
 
-Accuracy Score: 86%
-Performance: The SVM model, while still producing a respectable score, lagged behind the other two models. Despite efforts to optimize its performance through grid search, it remained the lowest-performing model in this comparison
+* Accuracy Score: 97%
+
+* Performance: The Gradient Boosting Classifier model, while still producing a respectable score, lagged behind the other model.
 
 
